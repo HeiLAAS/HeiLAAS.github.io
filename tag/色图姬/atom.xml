@@ -41,23 +41,31 @@
 &lt;li&gt;签到&lt;/li&gt;
 &lt;li&gt;每日运势&lt;/li&gt;
 &lt;li&gt;原神抽卡：原神普池 1 连 / 原神角色池三连 / 原神武器池 10 连&lt;/li&gt;
+&lt;li&gt;人工智障功能&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;二次元色图&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二次元色图&#34;&gt;#&lt;/a&gt; 二次元色图&lt;/h2&gt;
-&lt;p&gt;功能如下：&lt;br&gt;
+&lt;p&gt;## 二次元色图&lt;br&gt;
+功能如下：&lt;br&gt;
 来点色图，来 3 份 XX 的色图。 3 与 XX 都可以替换为自己想要要的数值，支持复合 TAG 色图，比如：来 3 份萝莉 白发色图，TAG 之间用空格隔开。&lt;/p&gt;
-&lt;h3 id=&#34;r18功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#r18功能&#34;&gt;#&lt;/a&gt; r18 功能：&lt;/h3&gt;
+&lt;p&gt;###r18 功能：&lt;/p&gt;
 &lt;p&gt;注：r18 功能需要使用定制机器人解锁，定制机器人价格：150 / 年；90 半年，老用户 9 折。&lt;br&gt;
 解锁 r18 功能之后，机器人将有搜索 r18 色图的能力， 发送来点 r18 色图，或者来点 XX 的 r18 色图都可以，同时也支持复合 tag 搜索。&lt;/p&gt;
-&lt;h2 id=&#34;骰子功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#骰子功能&#34;&gt;#&lt;/a&gt; 骰子功能&lt;/h2&gt;
-&lt;p&gt;.rxdy x 与 y 都可以替换为其他想要的数字，比如.r3d6;&lt;/p&gt;
-&lt;h2 id=&#34;来点本子&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#来点本子&#34;&gt;#&lt;/a&gt; 来点本子&lt;/h2&gt;
-&lt;p&gt;本子功能是通过利用上传群文件来实现，且为了逃避腾讯审查，采用了 7z1 后缀。使用之前，请确保机器人可以上传群文件，群文件有一定空间。打开本子请手动去除 7z1 后缀。&lt;/p&gt;
-&lt;h2 id=&#34;自定义表情包&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自定义表情包&#34;&gt;#&lt;/a&gt; 自定义表情包&lt;/h2&gt;
-&lt;p&gt;默认使用熊猫头作为底图，如果想要其他底图&lt;br&gt;
+&lt;p&gt;## 骰子功能&lt;br&gt;
+.rxdy x 与 y 都可以替换为其他想要的数字，比如.r3d6;&lt;/p&gt;
+&lt;p&gt;## 来点本子&lt;br&gt;
+本子功能是通过利用上传群文件来实现，且为了逃避腾讯审查，采用了 7z1 后缀。使用之前，请确保机器人可以上传群文件，群文件有一定空间。打开本子请手动去除 7z1 后缀。&lt;/p&gt;
+&lt;p&gt;## 自定义表情包&lt;br&gt;
+默认使用熊猫头作为底图，如果想要其他底图&lt;br&gt;
 请扫码&lt;br&gt;
 &lt;img src=&#34;https://pic.imgdb.cn/item/6194fda02ab3f51d9178c6cd.png&#34; alt=&#34;img 底图&#34;&gt;&lt;br&gt;
 并且使用 img 扫码内容进行替换底图&lt;br&gt;
 如：img peko&lt;/p&gt;
+&lt;p&gt;## 人工智障功能&lt;br&gt;
+ ### 学习对话：&lt;br&gt;
+发送口令： 学习对话 X1 X2&lt;br&gt;
+ 机器人将会记录下对话，下次发出口令 X1 时，将会自动回复 X2。&lt;br&gt;
+### 删除对话&lt;br&gt;
+发送口令： 删除对话 X1&lt;br&gt;
+ 将会删除对应的对话。&lt;/p&gt;
 </content>
         <category term="色图姬" />
         <updated>2021-11-17T12:22:12.000Z</updated>
