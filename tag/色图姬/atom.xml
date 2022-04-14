@@ -59,7 +59,7 @@
 &lt;li&gt;舔狗日记&lt;/li&gt;
 &lt;li&gt;点歌&lt;/li&gt;
 &lt;li&gt;自定义表情包：XXX.jpg&lt;/li&gt;
-&lt;li&gt;群友表情包：@xxx rua / 亲 / 丢 / 爬&lt;/li&gt;
+&lt;li&gt;群友表情包：/ 指令 + @xxx&lt;/li&gt;
 &lt;li&gt;云间姬文爱：云间姬来聊天&lt;/li&gt;
 &lt;li&gt;领劵 / 外卖&lt;/li&gt;
 &lt;li&gt;签到&lt;/li&gt;
@@ -91,6 +91,13 @@
 &lt;h3 id=&#34;删除对话&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#删除对话&#34;&gt;#&lt;/a&gt; 删除对话&lt;/h3&gt;
 &lt;p&gt;发送口令： 删除对话 X1&lt;br&gt;
  将会删除对应的对话。&lt;/p&gt;
+&lt;h2 id=&#34;群友表情包&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#群友表情包&#34;&gt;#&lt;/a&gt; 群友表情包&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://camo.githubusercontent.com/aef37960597763a74a5b3394ff37a1fff851b8f8b41f5214ee603c8a9d31e5db/68747470733a2f2f73322e6c6f6c692e6e65742f323032322f30322f32332f6c78675136746e6f584e5a4543576a2e6a7067&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;指令 + @user，如： / 爬 @小 Q&lt;br&gt;
+ 指令 + qq 号，如：/ 爬 123456&lt;br&gt;
+ 指令 + 自己，如：/ 爬 自己&lt;br&gt;
+指令 + 图片，如：/ 爬 [图片]&lt;br&gt;
+ 前三种触发方式会使用目标 qq 的头像作为图片&lt;/p&gt;
 </content>
         <category term="色图姬" />
         <updated>2021-11-17T12:22:12.000Z</updated>
